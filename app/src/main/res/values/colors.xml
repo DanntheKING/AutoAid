@@ -11,4 +11,5 @@
     <color name="grey">#888888</color>
     <color name="light_grey">#F0F0F0</color>
     <color name="red">#FF0000</color>
+    <color name="underline">#BDB8B8</color>
 </resources>
